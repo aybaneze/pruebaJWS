@@ -1,0 +1,31 @@
+[{
+        "id": "1",
+        "image": "http://www.biobase.cc/sys_manager/Images/proImg/20170823050143_3634.jpg",
+        "name": "Biological Safety Cabinet"
+    },
+    {
+        "id": "2",
+        "image": "http://www.biobase.cc/sys_manager/Images/proImg/20170819113837_9667.jpg",
+        "name": "Laminar Flow Cabinet"
+    },
+    {
+        "id": "3",
+        "image": "http://www.biobase.cc/sys_manager/Images/proImg/20180119032014_9161.png",
+        "name": "Fume Hood"
+    },
+    {
+        "id": "4",
+        "image": "http://www.biobase.cc/sys_manager/Images/proImg/20170819010539_7304.jpg",
+        "name": "PCR Cabinet"
+    },
+    {
+        "id": "5",
+        "image": "http://www.biobase.cc/sys_manager/Images/proImg/20180223053208_6889.jpg",
+        "name": "Air Purifier"
+    },
+    {
+        "id": "6",
+        "image": "http://www.biobase.cc/sys_manager/Images/proImg/20170818060102_1212.jpg",
+        "name": "Refrigerator and Freezer"
+    }
+]
