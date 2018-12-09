@@ -12,8 +12,8 @@ let cards = document.getElementById("cards")
       .then(data=>{
         for(let i in data){
           cards.innerHTML+=
-          `<div class="col s12 m6 l4">
-          <div class="card" id=${i}>
+          `<div class="col s12 m6 l4 ">
+          <div class="card z-depth-5" id=${i}>
             <div class="card-image">
               <img class="cardImage" src=${data[i].image}>
             </div>

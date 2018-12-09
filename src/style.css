@@ -5,6 +5,7 @@ body{
     display: flexbox;
     background-image: url("https://virlab.es/wp-content/uploads/2018/03/bg_laboratorio.jpg");
     background-size: contain;
+    flex-direction: column;
     }
 
 .logoNav{
@@ -12,16 +13,40 @@ body{
     height: 100%;
 }
 
+.prod{
+    border-bottom: 3px solid #002575;
+}
+
+.sup{
+    border-bottom: 3px solid #002575;
+}
+
+.vid{
+    border-bottom: 3px solid #002575;
+}
+
+.video-container{
+    margin-top: 50px;
+}
+
 ul li{
     font-weight: 500;
 }
 
-.act:visited{
-    background: rgba(142, 224, 142, 0.596);
+li:hover{
+    border-bottom: 3px solid green;
+}
+
+.fixed{
+   position: fixed;
+   margin-top: 80vh;
+   margin-left: 70vw;
+   background: rgb(2, 35, 128);
 }
 
 .container{
     justify-content: center;
+    width: 80%;
 }
 
 h5{
@@ -35,17 +60,21 @@ h5{
     border: none;
     cursor: pointer;
     color: white;
-    background: rgb(55, 97, 1);
+    background: rgb(1, 77, 90);
 }
 
 .btnMore:hover{
-    background: rgb(81, 151, 0);
+    background: rgb(0, 82, 114);
 }
 
 .cardImage{
     width: 50%;
     height: 250px;
 }
+    
+  main {
+    flex: 1 0 auto;
+  }
 
 @media only screen and (max-width: 600px) {
     .logoNav{
