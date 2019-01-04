@@ -1,12 +1,8 @@
-document.addEventListener('DOMContentLoaded', function() {
-    M.AutoInit(); 
-  });
+let cards = document.getElementById("cards");
+let content = document.getElementById("content");
 
-document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.sidenav');
-    // var instances = M.Sidenav.init(elems, options);
-  });
-let cards = document.getElementById("cards")
+
+
   fetch("../json/Lista.json")
     .then(response=>response.json())
       .then(data=>{
@@ -24,8 +20,51 @@ let cards = document.getElementById("cards")
               Más...
             </div></button>
           </div>
-        </div>`         
-          console.log()
+        </div>` 
+        
+        const btn = document.getElementsByClassName("btnMore");
+         
+        for( let i = 0; i< btn.length; i++){
+          btn[i].addEventListener("click", ()=>{
+            cards.style.display="none";
+            content.style.display="block";
+            fetch("../json/productos.json")
+              .then(response=>response.json())
+                .then(data=>{
+                  data.forEach(element => {
+                    for(let value in element){
+                     if( element.category == i+1){                  
+                      content.innerHTML+= `<div class="col s12 m6 l4 ">
+                      <div class="card z-depth-5" id=${element.id}>
+                        <div class="card-image">
+                          <img class="cardImage" src=${element.image}>
+                        </div>
+                        <div class="card-content">  
+                          <center><h5>${element.name}</h5></center>
+                          <center><p>${element.description}</p></center>                     
+                        </div>
+                      </div>
+                    </div>`
+                     }else{
+                       console.log("error")
+                     }
+                    }
+                  });
+                  
+                  // if(btn[i]===data.id){
+                  //   alert("hola")
+                  // }
+                })
+         
+          })
+         
+        }
+
+  //  if(i === btn)
+//     alert(btn);
+//   }
+// }
         }
       })
+
 

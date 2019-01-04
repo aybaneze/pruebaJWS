@@ -1,0 +1,168 @@
+[{
+    "id": "1",
+    "category":"1",
+    "description":"Tres protecciones: operador, muestra y medio ambiente. Sistema de flujo de aire: 70% de recirculación de aire, 30% de escape de aire A2 Cabinet es adecuado para trabajar con investigación microbiológica en ausencia de productos químicos volátiles o tóxicos y radionúclidos.",
+    "textFeatures": "Ventajas",
+    "features": [
+        {
+            "item" : "1",
+            "desc" : "Dimensión pequeña, ahorrar espacio."
+        },
+        {
+            "item":"2",
+            "desc" :"Ventilador centrífugo, velocidad, ajustable; Filtro HEPA H14."
+        },
+        {
+            "item": "3",
+            "desc": "Pantalla LCD grande: los operadores pueden verificar el estado detallado del gabinete, como la velocidad de entrada y bajada, la temperatura y humedad del área de trabajo, la presión del filtro, el tiempo de trabajo UV y el tiempo de trabajo del filtro, el indicador de vida útil del filtro, etc."
+        },
+        {
+            "item": "4",
+            "desc": "Función de ahorro de tiempo: Esto puede ahorrar 30 minutos de tiempo de espera después de activar el gabinete y el tiempo de esterilización después del experimento."
+        },
+        {
+            "item":"5",
+            "desc":" Control remoto: cada función se puede realizar a 6 metros de distancia del gabinete mediante un control remoto, que puede proteger al operador en caso de emergencia."
+        },
+        {
+            "item":"6",
+            "desc":"Ventana delantera motorizada: la ventana delantera está motorizada para una operación conveniente con una sola mano."
+        },
+        {
+            "item":"7",
+            "desc":"Función de aviso por voz: alarma de flujo de aire, alarma de reemplazo de filtro y alarma de altura de la ventana delantera."
+        },
+        {
+            "item":"8",
+            "desc":"Con función de memoria en caso de fallo de alimentación."
+        }
+
+    ], 
+  
+    "image": "http://www.biobase.cc/sys_manager/Images/proImg/20170823050143_3634.jpg",
+    "name": "Biological Safety Cabinet"
+},
+{
+    "id": "2",
+    "category":"1",
+    "description":"Aplicaciones.- Para gabinetes de bioseguridad, gabinetes de flujo laminar, campanas de extracción y otros equipos de laboratorio que necesiten un soporte de base de altura ajustable.",
+    "textFeatures": "Caracteristícas",
+    "features": [
+        {
+            "item" : "1",
+            "desc" : "Carga pesada y equilibrio inteligente."
+        },
+        {
+            "item":"2",
+            "desc" :"velocidad de funcionamiento suave y bajo nivel de ruido."
+        },
+        {
+            "item": "3",
+            "desc": "Concisa y fácil con buena apariencia."
+        },
+        {
+            "item": "4",
+            "desc": "Bajo costo de mantenimiento."
+        },
+        {
+            "item":"5",
+            "desc":"Fácil de instalar y desmontar."
+        },
+        {
+            "item":"6",
+            "desc":"Max Ruta Ajustable 400 mm."
+        },
+        {
+            "item":"7",
+            "desc":"Ancho ajustable es personalizado."
+        },
+        {
+            "item":"8",
+            "desc":"Multipurpose para aparatos de laboratorio."
+        }
+
+    ], 
+    "image": "http://www.biobase.cc/sys_manager/Images/proImg/i_20180129021509_9577.jpg",
+    "name": "Electric Height Adjustable Base Stand"
+},
+{
+    "id": "3",
+    "category":"1",
+    "description":" Tres protecciones: operador, muestra y medio ambiente. Sistema de flujo de aire: 70% de recirculación de aire, 30% de escape de aire A2 Cabinet es adecuado para trabajar con investigación microbiológica en ausencia de productos químicos volátiles o tóxicos y radionúclidos.",
+    "textFeatures": "Ventajas:",
+    "features": [
+        {
+            "item" : "1",
+            "desc" : " Ventana delantera motorizada."
+        },
+        {
+            "item":"2",
+            "desc" :" Pantalla LCD grande, toda la información mostrada."
+        },
+        {
+            "item": "3",
+            "desc": " Velocidad automática del aire regulable con bloque de filtro."
+        },
+        {
+            "item": "4",
+            "desc": " Con función de memoria en caso de fallo de alimentación."
+        },
+        {
+            "item":"5",
+            "desc":" La pared lateral y trasera está hecha de acero inoxidable de una sola pieza."
+        },
+        {
+            "item":"6",
+            "desc":" Función de bloqueo: lámpara UV y ventana frontal; Lámpara UV y soplante, lámpara fluorescente; Ventilador y ventanilla delantera."
+        },
+        {
+            "item":"7",
+            "desc":" Frontal inclinado 10 ° para ofrecer comodidad al operador mientras trabaja durante mucho tiempo, reducir el deslumbramiento y maximizar el alcance en el área de trabajo."
+        }
+    ], 
+    "image": "http://www.biobase.cc/sys_manager/Images/proImg/i_20180131033731_6828.jpg",
+    "name": "NSF Certified Biological Safety Cabinet"
+},
+{
+    "id": "4",
+    "category":"1",
+    "description":" Tres protecciones: operador, muestra y medio ambiente. Sistema de flujo de aire: 70% de recirculación de aire, 30% de escape de aire A2 Cabinet es adecuado para trabajar con investigación microbiológica en ausencia de productos químicos volátiles o tóxicos y radionúclidos.",
+    "textFeatures": "Ventajas:",
+    "features": [
+        {
+            "item" : "1",
+            "desc" : " Gran pantalla LCD a color, toda la información mostrada."
+        },
+        {
+            "item":"2",
+            "desc" :" Velocidad automática del aire regulable con bloque de filtro."
+        },
+        {
+            "item": "3",
+            "desc": " Con función de memoria en caso de fallo de alimentación."
+        },
+        {
+            "item": "4",
+            "desc": " Ventana de cristal de dos caras, fácil de observar."
+        },
+        {
+            "item":"5",
+            "desc":" Diseño unibody. La mesa de trabajo está hecha de 3 piezas de acero inoxidable, fácil de desmontar y limpiar."
+        },
+        {
+            "item":"6",
+            "desc":" Diseño de separación entre armario y base. La altura del soporte de base ajustable se puede personalizar."
+        },
+        {
+            "item":"7",
+            "desc":" Función de bloqueo: lámpara UV y ventana frontal; Lámpara UV y soplante, lámpara fluorescente; Ventilador y ventanilla delantera."
+        },
+        {
+            "item":"7",
+            "desc":" Frontal inclinado 10 ° para ofrecer comodidad al operador mientras trabaja durante mucho tiempo, reducir el deslumbramiento y maximizar el alcance en el área de trabajo."
+        }
+    ], 
+    "image": "http://www.biobase.cc/sys_manager/Images/proImg/i_20180131033731_6828.jpg",
+    "name": "NSF Certified Biological Safety Cabinet"
+}
+]
